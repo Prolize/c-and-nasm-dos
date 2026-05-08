@@ -1,4 +1,4 @@
-// Atv header for working with ATV (amateur television)
+// Atv header for working with ATV
 // Заголовок АТВ для работы с конкретными значениями (не нужно искать их в интернете)
 #ifndef ATV_H
 #define ATV_H
