@@ -1,2 +1,2 @@
 # c-and-nasm-dos
-C. Just C and no other code
+C. Just C and no other language 
