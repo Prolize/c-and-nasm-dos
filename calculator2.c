@@ -1,4 +1,4 @@
-// note: really better calculator
+// note: a much better calculator
 // huh
 
 #include <stdio.h>
