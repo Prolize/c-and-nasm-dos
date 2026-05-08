@@ -2,7 +2,7 @@
 // Who cares?? 
 
 #include <stdio.h>
-// Note: I wanna use printf(), because it's calculator about print result (a + b)
+// Note: I wanna use printf(), because it's a calculator about print result (a + b)
 // UWU
 
 int main() {
